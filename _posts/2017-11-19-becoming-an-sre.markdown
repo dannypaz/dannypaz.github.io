@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "JavaScript and Devops"
-date:   2017-11-18 00:59:38 -0800
+title:  "Becoming an SRE: Transitioning to OPs"
+date:   2017-11-19 00:00:00 -0800
 categories: devops javascript sre
 ---
-# Testing the blog format
+# Becoming an SRE; Transitioning to OPs
 testing
 
 {% highlight ruby %}
